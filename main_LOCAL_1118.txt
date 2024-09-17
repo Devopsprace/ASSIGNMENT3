@@ -1,5 +1,4 @@
 This is main file in in master branch
-<<<<<<< HEAD
 Adding New line for this please checkou from (DevOps Shack)
 <<<<<<< HEAD
 =======
@@ -17,5 +16,3 @@ Line added from F1 Branch
 
 #############################################################################
 >>>>>>> f2
-=======
->>>>>>> 8195755 (main.txt added in master branch)
