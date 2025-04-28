@@ -1,12 +1,5 @@
 This is main file in in master branch
 Adding New line for this please checkou from (DevOps Shack)
-<<<<<<< HEAD
-=======
-
-##########################################
-Line added from F1 Branch
-#########################################
-=======
 
 
 #############################################################################
@@ -15,4 +8,3 @@ Line added from F1 Branch
   Added Specification from BRD Documents
 
 #############################################################################
->>>>>>> f2
