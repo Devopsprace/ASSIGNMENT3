@@ -1,2 +1,0 @@
-This is main file in in master branch
-Adding New line for this please checkou from (DevOps Shack)
